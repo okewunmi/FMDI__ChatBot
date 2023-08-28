@@ -3,6 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="main">
+      <div className="header"></div>
       <df-messenger
         intent="WELCOME"
         chat-title="eDokita"

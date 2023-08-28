@@ -1,6 +1,10 @@
 .main {
   height: 100vh;
 }
+.header {
+  height: 3rem;
+  background: #001439;
+}
 df-messenger {
   --df-messenger-bot-message: #4d74ff;
   /*--df-messenger-button-titlebar-color: #df9b56;*/
