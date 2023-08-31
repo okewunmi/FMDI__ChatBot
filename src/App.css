@@ -6,11 +6,11 @@
   background: #001439;
 }
 df-messenger {
-  --df-messenger-bot-message: #560000;
-  --df-messenger-button-titlebar-color: #560000;
+  --df-messenger-bot-message: #001439;
+  --df-messenger-button-titlebar-color: #1d4285;
   /* --df-messenger-chat-background-color: #e6e5e5; */
   --df-messenger-font-color: white;
-  --df-messenger-send-icon: #560000;
+  --df-messenger-send-icon: #001439;
   /* --df-messenger-user-message: #479b3d; */
-  --df-messenger-user-message: #ba3d00;
+  --df-messenger-user-message: #1d4285;
 }
